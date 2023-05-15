@@ -28,7 +28,7 @@
 /**
  * Marlin release version identifier
  */
-#define SHORT_BUILD_VERSION "AMK8 marlin 2.1.2.420  apr.13 2023"
+#define SHORT_BUILD_VERSION "AMK8 marlin 2.1.2.420  apr.14 2023"
 
 /**
  * Verbose version identifier which should contain a reference to the location
