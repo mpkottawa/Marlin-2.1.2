@@ -41,12 +41,12 @@
  * here we define this default string as the date where the latest release
  * version was tagged.
  */
-#define STRING_DISTRIBUTION_DATE "amk8  420.0 2023-05-09 la"
+#define STRING_DISTRIBUTION_DATE "amk8  420.0 2023-05-15 input shaping"
 
 /**
  * Defines a generic printer name to be output to the LCD after booting Marlin.
  */
-#define MACHINE_NAME "AMK8"
+#define MACHINE_NAME "AMK8 i.s."
 
 /**
  * The SOURCE_CODE_URL is the location where users will find the Marlin Source
